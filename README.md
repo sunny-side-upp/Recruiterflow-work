@@ -9,7 +9,7 @@ A portfolio case study converting independent Recruiterflow competitor research 
 ## Start here
 
 - **[Open the interactive portfolio](index.html)** — responsive website and filterable competitor matrix.
-- [Competitive intelligence report (PDF)](report.pdf) — four-page research brief.
+- [Competitive intelligence report (PDF)](report.pdf) — research brief PDF.
 - [Sales enablement battlecard (PDF)](battlecard.pdf) — discovery, competitor talk tracks and objection handling.
 - [AI-assisted marketing workflow (PDF)](ai-assisted-marketing-workflow.pdf) — case study using IBM- and Jio-informed workstreams.
 - [Detailed competitive analysis](docs/case-study.md)
