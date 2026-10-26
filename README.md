@@ -53,7 +53,7 @@ The case study uses desk research only. No private interviews, win/loss analysis
 
 A GitHub Actions workflow is included in `.github/workflows/pages.yml`. After committing to `main`, set **Settings → Pages → Build and deployment → GitHub Actions** if needed. Confirm deployment succeeded before using the live URL.
 
-![Recruiting workflow concept illustration](assets/recruiting-workflow-hero.jpg)
+![Recruiting workflow concept illustration](assets/recruiting-workflow-hero.svg)
 
 *Concept illustration only; not a screenshot of Recruiterflow's product.*
 
